@@ -236,11 +236,10 @@ This project helped me apply C++ fundamentals in a practical application, especi
 
 ## 👨‍💻 Author
 
-**Mohammed Mohsen**
+**Mohamed Mohsen**
 
-Computer Science Student | Aspiring Backend Developer
-
-[GitHub](https://github.com/Mohammed-Mohsen-Mohammed) • [LinkedIn](https://www.linkedin.com/in/mohammed-mohsen-mohammed/)
+* GitHub: [Mohammed-Mohsen-Mohammed](https://github.com/Mohammed-Mohsen-Mohammed)
+* LinkedIn: [Mohammed Mohsen](https://www.linkedin.com/in/mohammed-mohsen-mohammed/)
 
 ---
 
