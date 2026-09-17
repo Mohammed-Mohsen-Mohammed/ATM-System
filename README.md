@@ -238,7 +238,7 @@ This project helped me apply C++ fundamentals in a practical application, especi
 
 **Mohamed Mohsen**
 
-* GitHub: [Mohammed-Mohsen-Mohammed](https://github.com/Mohammed-Mohsen-Mohammed)
+* GitHub: [Mohammed Mohsen](https://github.com/Mohammed-Mohsen-Mohammed)
 * LinkedIn: [Mohammed Mohsen](https://www.linkedin.com/in/mohammed-mohsen-mohammed/)
 
 ---
