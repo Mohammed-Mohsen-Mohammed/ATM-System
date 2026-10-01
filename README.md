@@ -236,7 +236,7 @@ This project helped me apply C++ fundamentals in a practical application, especi
 
 ## 👨‍💻 Author
 
-**Mohamed Mohsen**
+**Mohammed Mohsen**
 
 * GitHub: [Mohammed Mohsen](https://github.com/Mohammed-Mohsen-Mohammed)
 * LinkedIn: [Mohammed Mohsen](https://www.linkedin.com/in/mohammed-mohsen-mohammed/)
